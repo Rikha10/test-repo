@@ -10,3 +10,5 @@
 ---
 
 Merkbar endring
+
+laget ny branch med eget navn
